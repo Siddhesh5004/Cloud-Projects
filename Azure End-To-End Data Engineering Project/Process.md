@@ -1,4 +1,4 @@
-"The Azure Data Engineering process consists of various steps that enable the transformation and display of data from a data source."
+
 
 # Azure Data Engineering Process
 
