@@ -1,9 +1,5 @@
 # OLYMPIC DATA ANALYSIS THROUGH AZURE CLOUD SERVICES
 
-## Azure Data Engineering Process
-
-The Azure Data Engineering process consists of various steps that enable the transformation and display of data from a data source.
-
 ## Azure Data Engineering process based on the architecture diagram:
 
 1. **Data Ingestion**
