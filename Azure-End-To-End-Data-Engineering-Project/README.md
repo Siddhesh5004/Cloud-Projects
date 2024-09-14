@@ -2,7 +2,7 @@
 
 ## Azure Data Engineering process based on the architecture diagram:
 
-1. **Data Ingestion**
+1. **Data Ingestion (Data gathering from srcs)**
    - **Step**: Extract data from the data source.
    - **Process**: The data ingestion layer is responsible for gathering data from various sources. This step may include batch processing or real-time streaming to move data into a centralized storage location.
 

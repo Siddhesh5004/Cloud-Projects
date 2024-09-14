@@ -17,7 +17,7 @@ engineers and data scientists collaborate on big data processing and machine lea
 tasks. It provides tools for data exploration, data processing, and building machine learning
 models in a collaborative and scalable environment.
 
-4. Synapse Analytics :
+4. Synapse Analytics : not done completely
 SQL Data Warehouse, is a cloud-based analytics service provided by Microsoft Azure. It
 combines big data and data warehousing into a single integrated platform, allowing
 organizations to analyze and process large volumes of data for business intelligence and
